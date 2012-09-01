@@ -24,6 +24,6 @@ function(c){var d=c.items.sort(function(){return.5-Math.random()}),e=0;b.each(fu
 var b=a(this),c=d[e].media.m.replace("_m.",".");b.attr("src",c).attr("alt","GET OFF MY LAWN")})})}})(jQuery);
 $("#admin-official-image img").eastWood()
 ```
-
-
+  
+  
 ![eastWooded](https://raw.github.com/noahcooper/jQuery.eastWood/master/whitehousedotgov.png "lol")
