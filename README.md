@@ -21,7 +21,7 @@ No seriously, try it -- go to http://www.whitehouse.gov/administration/president
 (function(a){a.fn.eastWood=function(){var b=this;
 a.getJSON("http://api.flickr.com/services/feeds/photos_public.gne?format=json&tags=empty%20chair&jsoncallback=?",
 function(c){var d=c.items.sort(function(){return.5-Math.random()}),e=0;b.each(function(){if(!d[e]){e=0}
-var b=a(this),c=d[e].media.m.replace("_m.",".");b.attr("src",c).attr("alt","GET OFF MY LAWN")})})}})(jQuery);
+var b=a(this),c=d[e].media.m.replace("_m.",".");b.attr("src",c).attr("alt","GET OFF MY LAWN");e++})})}})(jQuery);
 $("#admin-official-image img").eastWood()
 ```
 
