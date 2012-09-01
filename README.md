@@ -3,7 +3,7 @@ jQuery.eastWood
 
 Copyright (c) 2012 Noah Cooper (<noah.cooper@hotmail.com>)  
 Dual licensed under MIT and GPL licenses (<http://projects.iamnoahcooper.com/license>)  
-Version: 1.0 (01-SEP-2012)
+Version: 1.1 (01-SEP-2012)
 
 With jQuery.eastWood, you can tell POTUS to *get off your lawn*.
 
